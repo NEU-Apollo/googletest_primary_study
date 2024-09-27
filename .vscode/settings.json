@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    // "C_Cpp.intelliSenseEngineFallback": "enabled"
+    "cmake.debugConfig": {
+        "args": [
+            "--gtest_filter=testCase2.*"
+        ]
+    } 
+}
